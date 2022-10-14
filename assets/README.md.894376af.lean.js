@@ -1,0 +1,1 @@
+import{o as a,c as e,a as n}from"./app.c63b71ca.js";const r='{"title":"北极星--一站式服务开放平台","description":"","frontmatter":{},"headers":[{"level":2,"title":"本地开发","slug":"本地开发"}],"relativePath":"README.md","lastUpdated":1665721845983}',s={},t=n('',7);s.render=function(n,r,s,h,o,d){return a(),e("div",null,[t])};export default s;export{r as __pageData};
